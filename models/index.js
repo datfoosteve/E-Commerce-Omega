@@ -8,7 +8,7 @@ const ProductTag = require('./ProductTag');
 Product.belongsTo(Category, {
 
 
-as: 'catagory_products'
+as: 'category_products'
 });
 
 // Categories have many Products
