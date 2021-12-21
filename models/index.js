@@ -22,11 +22,22 @@ Product.belongsToMany(Category, {
 
   through:{
     model: ProductTag,
+    unique: true
+  },
+
+as: 'catagory_products'
+});
+
+Product.belongsToMany(Tag, {
+
+  through:{
+    model: ProductTag,
     unique: false
   },
 
 as: 'catagory_products'
 });
+
 
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
