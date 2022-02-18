@@ -1,18 +1,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@1&family=Nova+Mono&display=swap" rel="stylesheet">
-
-***
-
-<h1 align= "center" background color="black">
-
-    # 13 Object-Relational Mapping (ORM):E-Commerce Back End
-
-</h1>
-
-***
-
 <h2 align= "center">
+Object-Relational Mapping - E-Commerce Backend - Assignment 13
 
  <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
@@ -24,19 +14,21 @@
 
 </h2>
 
-***
 ## Table of Contents
 
 ***
+
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Mockup](#mockup)
 - [Integration/Deploy Links](#integrationdeploy-links)
+  - [Demo](#demo)
 - [Credits](#credits)
 - [License](#license)
 - [Project/Assignment-Status](#projectassignment-status)
-- [Future Plans](#future-plans)
+- [Future Plans + Questions](#future-plans--questions)
 
 ***
 ## Description
@@ -49,46 +41,65 @@
 
 
 
-    This application is basically a database and a backend. As an assignment, its purpose is to help students gain a understanding on how Object Relational Mapping works in Database systems and 
-    also learn Sequelize and MySql code. By using MySQL2, Sequelize, and Express.js, we are able to connect to the database to store data .To initialize the database we use a package named 
-    "dotenv" which stores Username info, database name and password. This package file and is able to communicate and  sync the Sequelize models to the MySql database on startup.
-    Being themed as the backend of a fictional e-commerce site, this assignment helps acclimate and prepare students early to industry standard database design language situations and challenges.
+    Project was developed with starter code. As an assignment, its purpose is to help students gain a understanding on how Object Relational Mapping works in Database systems and 
+    also learn a little bit about the Sequelize and MySql2 codebase. By using MySQL2, Sequelize, and Express.js, we are able to connect to the database to store data, and with insomnia we were able to check all endpoints .To initialize the database we use a package named 
+    "dotenv" which stores Username info, database name, and password. This package file and is able to communicate and sync the Sequelize models to the MySql database on startup.
+    Being themed as the backend of a fictional e-commerce website, this assignment helps acclimate and prepare students early to industry standard database design language , thus progressing another layer of the stack.
 
 ***
 ## Installation
 
 ***
+If you are positioned on your root directory, then from
+ the command line, type and run the following commands
 
-    `npm init`
+
+    `npm i`   
+
+Thats it.
+
+
+
+This 'npm i' should install all the packages below, check the package.json
+file if its not installed see if they are even listed as a dependency,
+ and if these files are not listed, these commands below will
+install them and give you an updated version.
 
     `npm install mysql2`
 
     `npm install sequelize`
 
+    `npm install express`
+
     `npm install dotenv`
 
+*Note: Node package manager must be installed on your computer in order for these commands to work with the CLI.* 
+
+*<a href = "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"> Click here to download npm , which gives you the ability to publish and install the dependencies for this application.</a>*
 
 ***
 ## Usage
 
 ***
 
-Run the following command at the root of your project and answer the prompted questions:
 
-    `mysql -u root -p`
+Run the following commands at root to seed the file
 
-Enter PW when prompted
+    `mysql -u root`
+
+Enter the following inside the mysql command line
 
     `source db/schema.sql`
 
     `quit`
 
+Then Run the following commands
+
     `npm run seed`
     
     `npm start`
 
-
- 
+## Mockup
 
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
@@ -108,6 +119,8 @@ Enter PW when prompted
 
 ***
 
+### Demo
+
 This walkthrough video shows the POST, PUT, and DELETE routes for products and tags, by being tested in Insomnia.
 
 [thisLinkWIllbeTheVideoLink]
@@ -117,7 +130,9 @@ This walkthrough video shows the POST, PUT, and DELETE routes for products and t
 
 ***
 
-Stephen Puthenpurackal and tutor Eric Sayez
+Stephen Puthenpurackal
+
+<a href ="https://github.com/sayex" alt="Tutor">Eric Sayez</a>
 
 ***
 ## License
@@ -131,13 +146,25 @@ Stephen Puthenpurackal and tutor Eric Sayez
 
 ***
 
-*Completed and Finalized*
+    *Completed and Finalized*
 
 <img src="https://img.shields.io/github/last-commit/datfoosteve/E-Commerce-Omega" >
 
 ***
-## Future Plans
+## Future Plans + Questions
+
 ***
 
-Go back over it as reference for anything that has to do with MySql OR Sequelize
+My plans for after the project?
+
+    "Go back over it as reference for anything that has to do with MySql OR Sequelize.....I guess"
+
+***
+
+Feel Free to email me your questions!
+
+Email: stephenandarlie@gmail.com
+
+Github: <a href ="https://github.com/datfoosteve">datfoosteve</a>
+
 ***
