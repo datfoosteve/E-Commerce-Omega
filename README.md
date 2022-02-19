@@ -103,15 +103,15 @@ Then Run the following commands
 
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-    ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
+<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Yeah Right" width="100%"></iframe></div>
 
     The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
-    ![In Insomnia, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./Assets/13-orm-homework-demo-02.gif)
+<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/621054bfc674ec007f79fcac?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div>
 
     The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-    ![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
+<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://imgur.com/gallery/0vZeurs" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" width="100%"></iframe></div>
 
    
 ***
