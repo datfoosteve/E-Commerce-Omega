@@ -104,7 +104,7 @@ Then Run the following commands
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 
-![GET routes to return all categories, all products, and all tags](https://kapwi.ng/c/LBggmAAC7W)
+![GET routes to return all categories, all products, and all tags](https://kapwi.ng/c/LBggmAAC7W.gif)
 
 
 
