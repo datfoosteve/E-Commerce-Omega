@@ -104,15 +104,15 @@ Then Run the following commands
 
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-![GET routes to return all categories, all products, and all tags](./assets/gifs/final_62104f1b2ebe9900a05df5c4_785148.gif)
+![GET routes to return all categories, all products, and all tags](./asset/gif/final_62104f1b2ebe9900a05df5c4_785148.gif)
 
     The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
-![GET routes to return a single category, a single product, and a single tag](./assets/gifs/final_621054bfc674ec007f79fcac_206523.gif)
+![GET routes to return a single category, a single product, and a single tag](./asset/gif/final_621054bfc674ec007f79fcac_206523.gif)
 
     The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-![POST, PUT, and DELETE routes](./assets/gifs/final_6210598564344900e0ca5021_250123.gif)
+![POST, PUT, and DELETE routes](https://i.imgur.com/qMC3leL.gif)
 
 ***
 ## Integration/Deploy Links
