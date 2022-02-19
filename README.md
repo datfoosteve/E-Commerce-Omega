@@ -104,27 +104,27 @@ Then Run the following commands
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 
-![GET routes to return all categories, all products, and all tags](https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true)
+![GET routes to return all categories, all products, and all tags](<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Yeah Right" width="100%"></iframe></div>)
 
 
 
-<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Yeah Right" width="100%"></iframe></div>
+
 
     The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
 
-![GET routes to return a single category, a single product, and a single tag](https://www.kapwing.com/e/621054bfc674ec007f79fcac?autoplay=true)
+![GET routes to return a single category, a single product, and a single tag](<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/621054bfc674ec007f79fcac?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div>)
 
 
 
-<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/621054bfc674ec007f79fcac?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div>
+
 
     The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://imgur.com/gallery/0vZeurs" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" width="100%"></iframe></div>
+![POST, PUT, and DELETE routes](<blockquote class="imgur-embed-pub" lang="en" data-id="a/0vZeurs"  ><a href="//imgur.com/a/0vZeurs">eadaw</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/0vZeurs"  ><a href="//imgur.com/a/0vZeurs">eadaw</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
    
 ***
