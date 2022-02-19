@@ -123,7 +123,7 @@ Then Run the following commands
 
 This walkthrough video shows ALL endpoints being tested in Insomnia. Its sped up x2 to be bearable. Tried to include decent music for the grader. 
 
-[Here is the youtube video of the Demo](https://www.youtube.com/watch?v=u5k6QtsGHRY)
+[Here is the youtube video of the Demo](https://www.youtube.com/watch?v=uJufmoRIljw)
 
 ***
 ## Credits
