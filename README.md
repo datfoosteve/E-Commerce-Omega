@@ -104,7 +104,7 @@ Then Run the following commands
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 
-    ![GET routes to return all categories, all products, and all tags](https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true)
+![GET routes to return all categories, all products, and all tags](https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true)
 
 
 
@@ -124,7 +124,7 @@ Then Run the following commands
 <div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://imgur.com/gallery/0vZeurs" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" width="100%"></iframe></div>
 
 
-![POST, PUT, and DELETE](https://imgur.com/gallery/0vZeurs)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0vZeurs"  ><a href="//imgur.com/a/0vZeurs">eadaw</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
    
 ***
