@@ -104,7 +104,7 @@ Then Run the following commands
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 
-![GET routes to return all categories, all products, and all tags](<div style="height: 0; padding-bottom: calc(80.93%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62104f1b2ebe9900a05df5c4?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Yeah Right" width="100%"></iframe></div>)
+![GET routes to return all categories, all products, and all tags](https://kapwi.ng/c/LBggmAAC7W)
 
 
 
