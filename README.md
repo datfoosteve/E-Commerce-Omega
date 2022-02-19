@@ -90,15 +90,15 @@ Run the following commands at root to seed the file
 
 Enter the following inside the mysql command line
 
-    `source db/schema.sql`
+    `source schema.sql`
 
     `quit`
 
 Then Run the following commands
 
-    `npm run seed`
+    `node run seed`
     
-    `npm start`
+    `node server.js`
 
 ## Mockup
 
@@ -121,9 +121,9 @@ Then Run the following commands
 
 ### Demo
 
-This walkthrough video shows the POST, PUT, and DELETE routes for products and tags, by being tested in Insomnia.
+This walkthrough video shows ALL endpoints being tested in Insomnia. Its sped up x2 to be bearable. Tried to include decent music for the grader. 
 
-[thisLinkWIllbeTheVideoLink]
+[Here is the youtube video of the Demo](https://www.youtube.com/watch?v=QtdKwDXz7vU)
 
 ***
 ## Credits
