@@ -2,6 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@1&family=Nova+Mono&display=swap" rel="stylesheet">
 <h2 align= "center">
+ 
 Object-Relational Mapping - E-Commerce Backend - Assignment 13
 
  <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -103,30 +104,16 @@ Then Run the following commands
 
     The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-
-![GET routes to return all categories, all products, and all tags](https://kapwi.ng/c/LBggmAAC7W.gif)
-
-
-
-
+![GET routes to return all categories, all products, and all tags](./assets/gifs/final_62104f1b2ebe9900a05df5c4_785148.gif)
 
     The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
-
-![GET routes to return a single category, a single product, and a single tag](https://imgur.com/faDOKzo)
-
-
-
-
+![GET routes to return a single category, a single product, and a single tag](./assets/gifs/final_621054bfc674ec007f79fcac_206523.gif)
 
     The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-![POST, PUT, and DELETE routes](<blockquote class="imgur-embed-pub" lang="en" data-id="a/0vZeurs"  ><a href="//imgur.com/a/0vZeurs">eadaw</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![POST, PUT, and DELETE routes](./assets/gifs/final_6210598564344900e0ca5021_250123.gif)
 
-
-
-
-   
 ***
 ## Integration/Deploy Links
 
